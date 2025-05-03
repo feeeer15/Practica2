@@ -1,0 +1,40 @@
+[
+    {
+        "productos": [
+            {
+                "nombre": "Expresso",
+                "precio": 35
+            },
+            {
+                "nombre": "Capuccino",
+                "precio": 50
+            },
+            {
+                "nombre": "Panqu\u00e9",
+                "precio": 25
+            }
+        ],
+        "total": 110,
+        "estado": "En preparaci\u00f3n"
+    },
+    {
+        "productos": [
+            {
+                "nombre": "Latte",
+                "precio": 45
+            }
+        ],
+        "total": 45,
+        "estado": "En preparaci\u00f3n"
+    },
+    {
+        "productos": [
+            {
+                "nombre": "Galleta",
+                "precio": 20
+            }
+        ],
+        "total": 20,
+        "estado": "Cancelado"
+    }
+]
